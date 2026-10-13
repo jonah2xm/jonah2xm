@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jonah2xm/jonah2xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with 3+ years building production web apps for international clients and for Naftal (Sonatrach group).
+1 Notaura : AI PDF reader SaaS with 1,000+ subscribers (Stripe, OpenAI, Mistral)
 
-Here are some ideas to get you started:
+2 CoachSupport : RAG-based AI assistant for coaches in the Netherlands
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3 NaftTime : HR attendance system deployed at 7 Naftal sites (Next.js, Prisma, PostgreSQL)
+
+4 Restaurant POS : real-time ordering, kitchen display and offline sync (socket.io)
+
+Stack: TypeScript, React, Next.js, Node.js/Express, PostgreSQL, MongoDB, Docker, OpenAI/Mistral, Pinecone.
+Based in Oran, Algeria (UTC+1, full EU overlap). Open to remote full-time or part-time roles.
+Portfolio: younes-oubelaid.netlify.app
